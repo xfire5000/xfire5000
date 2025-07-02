@@ -1,67 +1,69 @@
-<h1 align="center">سلام! من xfire5000 هستم 👋</h1>
+<h1 align="center">Hi there 👋 I'm xfire5000</h1>
+
 <p align="center">
-  توسعه‌دهنده فول‌استک با تمرکز بر <strong>Laravel</strong>، <strong>Vue 3</strong> و <strong>Nuxt 3</strong> <br>
-  عاشق کدنویسی تمیز، طراحی معماری منعطف و ساخت ابزارهای کاربردی
+  A Full-Stack Web Developer passionate about building powerful web apps using <strong>Laravel</strong>, <strong>Vue 3</strong>, <strong>Nuxt</strong>, and <strong>TypeScript</strong>.
 </p>
 
 ---
 
-## 🛠️ تکنولوژی‌هایی که باهاشون کار می‌کنم
+## 🚀 Tech Stack
 
 <div align="center">
 
   <!-- Laravel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="60" alt="Laravel" title="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" alt="Laravel" title="Laravel" />
 
   <!-- Vue 3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue" title="Vue 3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue.js" title="Vue 3" />
 
   <!-- Nuxt 3 -->
-  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="60" alt="Nuxt 3" title="Nuxt 3" />
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="50" alt="Nuxt 3" title="Nuxt 3" />
+
+  <!-- Quasar -->
+  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="50" alt="Quasar" title="Quasar Framework" />
 
   <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript" />
 
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript" />
 
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" title="PHP" />
 
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL" />
+
 </div>
 
 ---
 
-## 💡 مهارت‌ها و علایق من
+## 🧠 Currently Working On
 
-- توسعه وب با Vue 3، Nuxt 3، Pinia، TailwindCSS
-- طراحی API با Laravel 11 و معماری RESTful
-- احراز هویت با Sanctum / JWT
-- نوشتن کدهای تایپ‌سیف با TypeScript
-- پیاده‌سازی SPA و SSR در پروژه‌های مقیاس‌پذیر
-- طراحی و توسعه CMS‌ ماژولار با PHP و Vue
+- ⚙ A modular CMS using Laravel + Vue 3 + Quasar
+- 🧩 A dynamic form-builder using Zod, Pinia and Quasar
+- 📡 A mobile VPN app powered by Laravel & V2Ray config sync
 
 ---
 
-## 🔭 پروژه‌هایی که روشون کار می‌کنم
-- CMS قابل استفاده در پروژه‌های Laravel/Nuxt
-- فرم‌ساز داینامیک با Pinia + Zod + Quasar
-- اپلیکیشن V2Ray VPN مبتنی بر Android و Laravel
-
----
-
-## 📊 آمار GitHub من
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfire5000&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfire5000&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xfire5000&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfire5000&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
 
-## 📫 ارتباط با من
+## 🌱 Learning Goals
+
+- 🚀 Mastering Docker + CI/CD workflows for Laravel + Nuxt
+- 🧬 Building Microservices & Event-driven apps
+- 🔍 Type-safe APIs using tRPC & GraphQL with TypeScript
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -72,5 +74,5 @@
 ---
 
 <div align="center">
-  <sub>ساخته شده با ❤️ توسط xfire5000</sub>
+  <sub>Crafted with ❤️ using Laravel, Nuxt & Quasar — by xfire5000</sub>
 </div>
