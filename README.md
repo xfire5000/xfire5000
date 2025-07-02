@@ -1,7 +1,7 @@
 <h1 align="center">سلام! من xfire5000 هستم 👋</h1>
 <p align="center">
-  توسعه‌دهنده فول‌استک با تمرکز روی <strong>Laravel</strong> و <strong>Vue 3 / Nuxt</strong><br>
-  عاشق ساخت اپلیکیشن‌های سریع، زیبا و مقیاس‌پذیر
+  توسعه‌دهنده فول‌استک با تمرکز بر <strong>Laravel</strong>، <strong>Vue 3</strong> و <strong>Nuxt 3</strong> <br>
+  عاشق کدنویسی تمیز، طراحی معماری منعطف و ساخت ابزارهای کاربردی
 </p>
 
 ---
@@ -9,34 +9,50 @@
 ## 🛠️ تکنولوژی‌هایی که باهاشون کار می‌کنم
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
+
+  <!-- Laravel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="60" alt="Laravel" title="Laravel" />
+
+  <!-- Vue 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue" title="Vue 3" />
+
+  <!-- Nuxt 3 -->
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="60" alt="Nuxt 3" title="Nuxt 3" />
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" title="TypeScript" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" title="JavaScript" />
+
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" title="PHP" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" title="MySQL" />
 </div>
 
 ---
 
-## 🔥 مهارت‌ها و حوزه‌های مورد علاقه
-- توسعه SPA و SSR با Vue 3 و Nuxt 3
-- طراحی RESTful API در Laravel 11
-- احراز هویت JWT و Sanctum
-- طراحی CMSهای سفارشی و پنل مدیریت پیشرفته
-- توسعه Frontend با TailwindCSS، SCSS، Vite
-- ارتباط Vue و Laravel با Inertia، Sanctum و REST
+## 💡 مهارت‌ها و علایق من
+
+- توسعه وب با Vue 3، Nuxt 3، Pinia، TailwindCSS
+- طراحی API با Laravel 11 و معماری RESTful
+- احراز هویت با Sanctum / JWT
+- نوشتن کدهای تایپ‌سیف با TypeScript
+- پیاده‌سازی SPA و SSR در پروژه‌های مقیاس‌پذیر
+- طراحی و توسعه CMS‌ ماژولار با PHP و Vue
 
 ---
 
-## 🌱 در حال یادگیری:
-- Docker و CI/CD در پروژه‌های PHP/Vue
-- معماری Microservices با Laravel
-- GraphQL + Vue + Nuxt
+## 🔭 پروژه‌هایی که روشون کار می‌کنم
+- CMS قابل استفاده در پروژه‌های Laravel/Nuxt
+- فرم‌ساز داینامیک با Pinia + Zod + Quasar
+- اپلیکیشن V2Ray VPN مبتنی بر Android و Laravel
 
 ---
 
-## 📊 آمار گیت‌هاب من
+## 📊 آمار GitHub من
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xfire5000&show_icons=true&theme=tokyonight" height="150"/>
