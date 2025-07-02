@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm xfire5000</h1>
+<h1 align="center">Hi there 👋 I'm Ali Zare</h1>
 
 <p align="center">
   A Full-Stack Web Developer passionate about building powerful web apps using <strong>Laravel</strong>, <strong>Vue 3</strong>, <strong>Nuxt</strong>, and <strong>TypeScript</strong>.
