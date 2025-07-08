@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ali Zare</h1>
 
 <p align="center">
-  A Full-Stack Web Developer passionate about building powerful web apps using <strong>Laravel</strong>, <strong>Vue 3</strong>, <strong>Nuxt</strong>, and <strong>TypeScript</strong>.
+  A Full-Stack Web Developer passionate about building powerful and elegant apps with <strong>Laravel</strong>, <strong>Vue 3</strong>, <strong>Nuxt</strong>, <strong>TypeScript</strong> and <strong>Inertia.js</strong>.
 </p>
 
 ---
@@ -22,6 +22,9 @@
   <!-- Quasar -->
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="50" alt="Quasar" title="Quasar Framework" />
 
+  <!-- Inertia.js -->
+  <img src="https://raw.githubusercontent.com/inertiajs/inertia/main/.github/logo.svg" width="50" alt="Inertia.js" title="Inertia.js" />
+
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript" />
 
@@ -38,11 +41,19 @@
 
 ---
 
-## 🧠 Currently Working On
+## 🧠 What I'm Working On
 
-- ⚙ A modular CMS using Laravel + Vue 3 + Quasar
-- 🧩 A dynamic form-builder using Zod, Pinia and Quasar
-- 📡 A mobile VPN app powered by Laravel & V2Ray config sync
+- A modular CMS with Laravel + Vue 3 + Quasar
+- A dynamic form builder using Pinia + Zod + Quasar
+- A mobile VPN app powered by Laravel & V2Ray config sync
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Docker and CI/CD for Laravel/Nuxt
+- GraphQL + tRPC with TypeScript
+- Event-driven architecture and microservices
 
 ---
 
@@ -55,23 +66,19 @@
 
 ---
 
-## 🌱 Learning Goals
-
-- 🚀 Mastering Docker + CI/CD workflows for Laravel + Nuxt
-- 🧬 Building Microservices & Event-driven apps
-- 🔍 Type-safe APIs using tRPC & GraphQL with TypeScript
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:xfire5000@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/xfire5000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:xfire5000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/xfire5000">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ using Laravel, Nuxt & Quasar — by xfire5000</sub>
+  <sub>Crafted with ❤️ by Ali Zare — Laravel • Vue • Nuxt • Quasar • Inertia</sub>
 </div>
