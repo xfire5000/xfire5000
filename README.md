@@ -21,6 +21,9 @@
 
   <!-- Quasar -->
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="50" alt="Quasar" title="Quasar Framework" />
+  
+  <!-- TailwindCSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="TailwindCSS" title="TailwindCSS" />
 
   <!-- Inertia.js -->
   <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="50" alt="Inertia.js" title="Inertia.js" />
