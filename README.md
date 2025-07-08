@@ -23,7 +23,7 @@
   <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" width="50" alt="Quasar" title="Quasar Framework" />
 
   <!-- Inertia.js -->
-  <img src="https://raw.githubusercontent.com/inertiajs/inertia/main/.github/logo.svg" width="50" alt="Inertia.js" title="Inertia.js" />
+  <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="50" alt="Inertia.js" title="Inertia.js" />
 
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript" />
